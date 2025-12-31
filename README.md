@@ -61,11 +61,3 @@ A 2D multiplayer racing game developed in C++ featuring real-time physics simula
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
-
----
-
-<div align="center">
-
-📫 **How to reach me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pilar-montilla/)
-
-</div>
