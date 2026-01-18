@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Pilar!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&letterSpacing=0.1rem&pause=2000&color=7B7B7B&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student+%40+FIUBA;Curious%2C+ambitious+and+eager+to+learn)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&letterSpacing=0.1rem&pause=2000&color=7B7B7B&center=true&vCenter=true&width=600&height=50&lines=Software +Engineering+Student+%40+FIUBA;Curious%2C+ambitious+and+eager+to+learn)](https://git.io/typing-svg)
 
 </div>
 
